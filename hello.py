@@ -1,1 +1,1 @@
-print ('hello world sfhkjfh')
+print ('hello world')
